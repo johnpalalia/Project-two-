@@ -7,4 +7,4 @@
 * The data set included with the assignment is based on 2014 ACS 1-year estimates: https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml.
 
 
-https://johnpalalia.github.io/Project-Two-/
+https://johnpalalia.github.io/Project-Two-/index.html
