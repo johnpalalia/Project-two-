@@ -4,7 +4,7 @@
 * U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
  https://www.businessinsider.com/cost-to-buy-a-house-in-every-state-ranked-2018-8
 
-*US population in 2013 (estimate) by state
+* US population in 2013 (estimate) by state
 https://www.indexmundi.com/facts/united-states/quick-facts/all-states/population-2013#map
 
 
