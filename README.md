@@ -1,4 +1,4 @@
-# Where to start a family in the US based on income and average home price.
+# Where to start a family in the US based on income and average home price. Data shows that looking at the populationa average of 2013 we can see that there are many other factors such as climate and demographics that would affect which states have higher population.
 
 ### Data 
 * U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
