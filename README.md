@@ -1,5 +1,7 @@
 # Is population (or the state where people decide to live) in the US based on income and average home price? Not necessarily, Data shows that looking at the populationa average of 2013 we can see that there are many other factors such as climate and demographics that would affect which states have higher population.
 
+Tools / Technologies used: Python, js, Jupyter Notebook, Power Point, HTML, and CSS
+
 ### Data 
 * U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
  https://www.businessinsider.com/cost-to-buy-a-house-in-every-state-ranked-2018-8
